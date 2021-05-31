@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242332842151",
+    "project_id": "bus-reservations-931be",
+    "storage_bucket": "bus-reservations-931be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242332842151:android:7969ab1556f294ac82c382",
+        "android_client_info": {
+          "package_name": "net.senior.busreservations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242332842151-uitif1o0eappo66h6uj6bul031gi1u5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Kgyt2CmZv5ZMAypK-i8Sa-ueKJUzq-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242332842151-uitif1o0eappo66h6uj6bul031gi1u5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

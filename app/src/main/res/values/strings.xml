@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bus Reservation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="lines">
+        <item>Select Bus Line</item>
+        <item>Line 1</item>
+        <item>Line 2</item>
+        <item>Line 3</item>
+    </string-array>
+</resources>

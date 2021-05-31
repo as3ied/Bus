@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+    android:orientation="vertical"
+    >
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:textColorHint="@color/blue"
+        android:hint="Name"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/code"
+        android:inputType="number"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:textColorHint="@color/blue"
+        android:hint="Code"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/phone"
+        android:gravity="center"
+        android:layout_margin="10dp"
+
+        android:textColorHint="@color/blue"
+
+        android:hint="Phone"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/password"
+        android:gravity="center"
+        android:layout_margin="10dp"
+
+        android:textColorHint="@color/blue"
+
+        android:hint="Password"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/email"
+        android:gravity="center"
+        android:layout_margin="10dp"
+
+        android:textColorHint="@color/blue"
+
+        android:hint="Email"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/address"
+        android:gravity="center"
+        android:layout_margin="10dp"
+
+        android:textColorHint="@color/blue"
+
+        android:hint="Address"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/university"
+        android:gravity="center"
+        android:layout_margin="10dp"
+
+        android:textColorHint="@color/blue"
+
+        android:hint="University"/>
+
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/blue"
+        android:padding="10dp"
+        android:textColor="@color/yellow"
+        android:text="Add"
+        android:textStyle="bold"
+        android:onClick="signUp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>
