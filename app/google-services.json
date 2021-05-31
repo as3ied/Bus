@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "242332842151",
-    "project_id": "bus-reservations-931be",
-    "storage_bucket": "bus-reservations-931be.appspot.com"
+    "project_number": "533273705412",
+    "firebase_url": "https://bus-reservations-2fc3d-default-rtdb.firebaseio.com",
+    "project_id": "bus-reservations-2fc3d",
+    "storage_bucket": "bus-reservations-2fc3d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:242332842151:android:7969ab1556f294ac82c382",
+        "mobilesdk_app_id": "1:533273705412:android:8c739193434e6d2cbcc291",
         "android_client_info": {
           "package_name": "net.senior.busreservations"
         }
       },
       "oauth_client": [
         {
-          "client_id": "242332842151-uitif1o0eappo66h6uj6bul031gi1u5k.apps.googleusercontent.com",
+          "client_id": "533273705412-5k303i6fqqrmk530kk3vs1qqup70eokh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA-Kgyt2CmZv5ZMAypK-i8Sa-ueKJUzq-8"
+          "current_key": "AIzaSyAt0W3qKuFq11AqEq_iF_nGELfywuEI1Ts"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "242332842151-uitif1o0eappo66h6uj6bul031gi1u5k.apps.googleusercontent.com",
+              "client_id": "533273705412-5k303i6fqqrmk530kk3vs1qqup70eokh.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
